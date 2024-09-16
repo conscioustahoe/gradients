@@ -1,4 +1,129 @@
-.ipynb_checkpoints/
-**/data/
-**/miniai/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
 venv/
+env/
+ENV/
+.venv/
+.pyenv/
+Pipfile.lock
+poetry.lock
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Unit test / coverage reports
+.coverage
+.tox/
+.nox/
+.cache/
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm specific
+.idea/
+
+# VSCode specific
+.vscode/
+
+# Spyder specific
+.spyderproject
+.spyproject
+
+# Visual Studio Code workspace settings
+*.code-workspace
+
+# macOS / Linux files
+.DS_Store
+*.swp
+*.swo
+
+# Logs and database files
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# Environment variables file
+.env
+.env.*
+
+# Machine learning output
+models/
+*.ckpt
+*.h5
+*.hdf5
+*.pth
+*.pt
+logs/
+runs/
+checkpoints/
+
+# TensorBoard log files
+tensorboard/
+tb_logs/
+
+# Data files (usually large files tracked by other means, e.g., DVC)
+data/
+*.csv
+*.parquet
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.h5
+*.zip
+*.tar.gz
+
+# Plot or visualization files
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# Docker files
+*.dockerfile
+docker-compose.yml
+
+# AWS configuration and credentials
+.aws/
+
+# Temporary files created by code editors
+*.tmp
+*.temp
+*.bak
+
+# Custom config and cache files
+*.ini
+*.yaml
+*.yml
+.cache/
+
