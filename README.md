@@ -1,60 +1,29 @@
 # gradients
 
-- [How does a neural network really work?](#how-does-a-neural-network-really-work?)
+- [How does a neural network really work?](https://github.com/conscioustahoe/gradients/blob/main/how-does-a-neural-net-really-work.ipynb)
 
-- [Linear model and neural net from scratch](#linear-model-and-neural-net-from-scratch)
+- [Linear model and neural net from scratch](https://github.com/conscioustahoe/gradients/blob/main/linear-model-and-neural-net-from-scratch.ipynb)
 
-- [Backprop](#backprop)
+- [Backprop](https://github.com/conscioustahoe/gradients/blob/main/backprop.ipynb)
 
-- [Mini Batch Training](#mini-batch-training)
+- [Mini Batch Training](https://github.com/conscioustahoe/gradients/blob/main/minibatch-training.ipynb)
 
-- [Convolutions](#convolutions)
+- [Convolutions](https://github.com/conscioustahoe/gradients/blob/main/convolutions_part_a.ipynb)
 
-- [Autoencoder](#autoencoder)
+- [Autoencoder](https://github.com/conscioustahoe/gradients/blob/main/autoencoder.ipynb)
 
-- [Learner](#learner)
+- [Learner](https://github.com/conscioustahoe/gradients/blob/main/learner.ipynb)
 
-- [Activations](#activations)
+- [Activations](https://github.com/conscioustahoe/gradients/blob/main/activations.ipynb)
 
-- [Initialization and Normalization](#initialization-and-normalization)
+- [Initialization and Normalization](https://github.com/conscioustahoe/gradients/blob/main/initializing.ipynb)
 
-- [Accel SGDs](#accel-sgds)
+- [Accel SGDs](https://github.com/conscioustahoe/gradients/blob/main/accel-sgd.ipynb)
 
-- [ResNets](#resnets)
+- [ResNets](https://github.com/conscioustahoe/gradients/blob/main/resnet.ipynb)
 
-- [Augment](#augment)
+- [Augment](https://github.com/conscioustahoe/gradients/blob/main/augment.ipynb)
 
-## How does a neural network really work?
+## Credits
 
-
-## Linear model and neural net from scratch
-
-
-## Backprop
-
-
-## Mini Batch Training
-
-
-## Convolutions
-
-
-## Autoencoder
-
-
-## Learner
-
-
-## Activations
-
-
-## Initialization and Normalization
-
-
-## Accel SGDs
-
-
-## ResNets
-
-
-## Augment
+- [Jeremy Howard](https://x.com/jeremyphoward) and the [fastdotai](https://www.fast.ai/) team for creating [Practical Deep Learning for Coders](https://course.fast.ai/) and [From Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html). I am forever grateful!
