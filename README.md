@@ -24,6 +24,18 @@
 
 - [Augment](https://github.com/conscioustahoe/gradients/blob/main/augment.ipynb)
 
+## Setup
+
+```
+pip install torch torchvision torcheval fastcore datasets numpy pandas matplotlib tqdm
+```
+
+```
+pip install -e miniai
+```
+
+
+
 ## Credits
 
 - [Jeremy Howard](https://x.com/jeremyphoward) and the [fastdotai](https://www.fast.ai/) team for creating [Practical Deep Learning for Coders](https://course.fast.ai/) and [From Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html). I am forever grateful!
