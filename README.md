@@ -38,4 +38,4 @@ pip install -e miniai
 
 ## Credits
 
-- [Jeremy Howard](https://x.com/jeremyphoward) and the [fastdotai](https://www.fast.ai/) team for creating [Practical Deep Learning for Coders](https://course.fast.ai/) and [From Deep Learning Foundations to Stable Diffusion](https://course.fast.ai/Lessons/part2.html). I am forever grateful!
+- To [Jeremy Howard](https://x.com/jeremyphoward). I am forever grateful!
