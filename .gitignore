@@ -103,10 +103,10 @@ data/
 *.tar.gz
 
 # Plot or visualization files
-*.png
+# *.png
 *.jpg
 *.jpeg
-*.svg
+# *.svg
 *.pdf
 
 # Docker files
