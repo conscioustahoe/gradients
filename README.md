@@ -24,16 +24,17 @@
 
 - [Augment](https://github.com/conscioustahoe/gradients/blob/main/augment.ipynb)
 
+- [DDPM](https://github.com/conscioustahoe/gradients/blob/main/DDPM.ipynb)
+
 ## Setup
 
 ```
-pip install torch torchvision torcheval fastcore datasets numpy pandas matplotlib tqdm
+pip install torch torchvision torcheval fastcore datasets numpy pandas matplotlib tqdm diffusers
 ```
 
 ```
 pip install -e miniai
 ```
-
 
 
 ## Credits
