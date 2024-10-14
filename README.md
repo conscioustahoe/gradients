@@ -29,7 +29,7 @@
 ## Setup
 
 ```
-pip install torch torchvision torcheval fastcore datasets numpy pandas matplotlib tqdm diffusers timm
+pip install torch torchvision torcheval fastcore datasets numpy pandas matplotlib tqdm diffusers timm einops
 ```
 
 ```
